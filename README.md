@@ -1,4 +1,4 @@
-# PAYDAY 3 - Codes
+# PAYDAY 3 - Codes from fingerprints
 
 This script provides all the possible combinations of codes that are considered valid from fingerprints.
 The generated codes are played back iteratively (in order) by pressing the '#' button via audio for easier
