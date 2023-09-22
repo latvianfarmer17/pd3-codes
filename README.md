@@ -9,4 +9,4 @@ to the console. Then by pressing the '#' button the script will call out the nex
 
 ## License
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
